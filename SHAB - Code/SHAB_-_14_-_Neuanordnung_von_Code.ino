@@ -229,8 +229,8 @@ void loop() {
   if(wifiMulti.run() != WL_CONNECTED) {
         Serial.println("WiFi not connected!");
         
-        wifiMulti.addAP("666", "62729030318813756005");
-        wifiMulti.addAP("Pixel_1308", "12345678");
+        wifiMulti.addAP("666", "Passwort1");
+        wifiMulti.addAP("Pixel_1308", "Passwort2");
         wifiMulti.addAP("ssid_from_AP_3", "your_password_for_AP_3");
 
         Serial.println("Connecting Wifi...");
