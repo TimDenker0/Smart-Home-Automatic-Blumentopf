@@ -1,6 +1,6 @@
 # SHAB - Code Dokumentation
 
-Die aktuelle Version des Programms ist [SHAB_-_15_-_Finaler_Code.ino](SHAB - Code/SHAB_-_15_-_Finaler_Code.ino).
+Die aktuelle Version des Programms ist "SHAB_-_15_-_Finaler_Code.ino".
 
 ## Inhaltsverzeichnis
 
